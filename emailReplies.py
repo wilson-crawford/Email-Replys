@@ -35,7 +35,7 @@ while cmd != '20':
     print("13. Request to install software with SCCM")
 
 
-
+#    print("14. Reply 14 ")
 #    print("15. Reply 15 ")
 #    print("16. Reply 16 ")
 #    print("17. Reply 17 ")
